@@ -1,0 +1,37 @@
+_repo: When-shadows-die_75317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southworth, Emma Dorothy Eliza Nevitte
+    aliases:
+    - Nevitt, Dorothy Emma Eliza
+    - Southworth, E. D. E. N.
+    - Southworth, Emma D. E. N.
+    - Southworth, Mrs. E. D. E. N.
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '1307'
+    url: http://www.gutenberg.org/2009/agents/1307
+    wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
+description: A sequel to "Love's bitterest cup"
+gutenberg_issued: '2025-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75317'
+language: en
+pgterms:marc904: https://archive.org/details/whenshadowsdie00soutgoog
+pgterms:marc905: 20210213083119southworth
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bA. L. Burt, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- GITenberg
+title: When shadows die
+url: http://www.gutenberg.org/ebooks/75317
