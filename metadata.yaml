@@ -1,5 +1,8 @@
 _repo: When-shadows-die_75317
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75317-h/images/cover.jpg
 creator:
   author:
     agent_name: Southworth, Emma Dorothy Eliza Nevitte
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1307
     wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
 description: A sequel to "Love's bitterest cup"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75317#When-shadows-die
 gutenberg_issued: '2025-02-08'
 gutenberg_type: Text
 identifiers:
